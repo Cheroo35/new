@@ -19,5 +19,6 @@ For further installation details, please see docs/installation.html in the distr
 # hi
 # hello
 thank you
+hi john hshshsvkjg
 
 Help and support is available via the pebble-users[at]lists.sourceforge.net mailing list. Details on subscribing to this list can be found at http://lists.sourceforge.net/mailman/listinfo/pebble-user.
